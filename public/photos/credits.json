@@ -1,0 +1,75 @@
+{
+  "note": "Photographs are bundled locally and attributed beside each image. Verify each file's source and licence before reuse.",
+  "photos": [
+    {
+      "file": "devimane-ghat.jpg",
+      "photographer": "Dh4445666",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Devimane_Ghat_View_point.jpg"
+    },
+    {
+      "file": "marikamba-temple.jpg",
+      "photographer": "solarisgirl",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Marikamba_Temple,_Sirsi_(48029105021).jpg"
+    },
+    {
+      "file": "sahasralinga-sirsi.jpg",
+      "photographer": "Microrao",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Sahasralinga_Sirsi.jpg"
+    },
+    {
+      "file": "unchalli-falls.jpg",
+      "photographer": "Plhegde",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:LUSHINGTON_FALLS-UNCHALLI.JPG"
+    },
+    {
+      "file": "bedara-vesha.jpg",
+      "photographer": "Atodead",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Bedara-Vesha-2-1.jpg"
+    },
+    {
+      "file": "yakshagana-chowki.jpg",
+      "photographer": "Sathwik",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Yakshagana_makeup_room-_%22Chowki%22.jpg"
+    },
+    {
+      "file": "patrode-aati.jpg",
+      "photographer": "Vishwanatha Badikana",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Patrode_Aati_celebration_food_1.jpg"
+    },
+    {
+      "file": "areca-paddy-mist.jpg",
+      "photographer": "Timothy A. Gonsalves",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Areca_Paddy_Mist_Balamuri_Coorg_Feb24_A7C_09428.jpg"
+    },
+    {
+      "file": "yana-rocks.jpg",
+      "photographer": "Kiwiki6",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:YANA.jpg"
+    },
+    {
+      "file": "madhukeshwara-temple.jpg",
+      "photographer": "Ajaya.n.g",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Madhukeshwara_temple_at_Banavasi_sirsi.JPG"
+    }
+  ]
+}
